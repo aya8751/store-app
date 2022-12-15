@@ -1,4 +1,4 @@
-# ResizeImage
+# StoreApp
 
 <h2>
   <a href="https://store-app-f0dad.firebaseapp.com/" target="_blank" title="Demo">
