@@ -1,4 +1,10 @@
-# StoreApp
+# ResizeImage
+
+<h2>
+  <a href="https://store-app-f0dad.firebaseapp.com/" target="_blank" title="Demo">
+    Live Demo
+  </a>
+</h2>
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.2.
 
