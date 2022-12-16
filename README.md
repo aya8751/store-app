@@ -7,6 +7,7 @@
     Live Demo
   </a>
 </h2>
+
 ![store-app](/src/assets/images/products.png)
 
 
