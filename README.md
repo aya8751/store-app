@@ -6,8 +6,8 @@
   <a href="https://store-app-f0dad.firebaseapp.com/" target="_blank" title="Demo">
     Live Demo
   </a>
-  ![store-app](/src/assets/images/products.png)
 </h2>
+![store-app](/src/assets/images/products.png)
 
 
 ## UI Description
